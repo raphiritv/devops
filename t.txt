@@ -1,0 +1,18 @@
+total 55
+-rw-r--r-- 1 tieho.v.raphiri 1049089   246 Sep  7 13:36 Dockerfile
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 13:36 devops_docs/
+-rw-r--r-- 1 tieho.v.raphiri 1049089   169 Sep  7 13:36 docker-compose.yml
+-rwxr-xr-x 1 tieho.v.raphiri 1049089  7112 Sep  7 13:36 mvnw*
+-rw-r--r-- 1 tieho.v.raphiri 1049089  5186 Sep  7 13:36 mvnw.cmd
+-rw-r--r-- 1 tieho.v.raphiri 1049089  5743 Sep  7 13:36 readme.md
+-rw-r--r-- 1 tieho.v.raphiri 1049089   332 Sep  7 13:36 sonar-project.properties
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 13:36 src/
+-rw-r--r-- 1 tieho.v.raphiri 1049089 15815 Sep  7 13:36 pom.xml
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 14:41 target/
+-rw-r--r-- 1 tieho.v.raphiri 1049089    27 Sep  7 15:06 test.Jenkings.trigger
+-rw-r--r-- 1 tieho.v.raphiri 1049089    10 Sep  7 15:10 test2.j
+-rw-r--r-- 1 tieho.v.raphiri 1049089   153 Sep  7 15:14 test.222
+-rw-r--r-- 1 tieho.v.raphiri 1049089  1670 Sep  7 15:24 test.po
+-rw-r--r-- 1 tieho.v.raphiri 1049089   168 Sep  7 15:28 test.2
+-rw-r--r-- 1 tieho.v.raphiri 1049089     0 Sep  7 15:29 t
+-rw-r--r-- 1 tieho.v.raphiri 1049089     0 Sep  7 15:32 t.txt

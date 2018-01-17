@@ -1,0 +1,26 @@
+total 82
+-rw-r--r-- 1 tieho.v.raphiri 1049089   192 Sep  7 13:36 .editorconfig
+-rw-r--r-- 1 tieho.v.raphiri 1049089    68 Sep  7 13:36 .gitignore
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 13:36 .mvn/
+-rw-r--r-- 1 tieho.v.raphiri 1049089   726 Sep  7 13:36 .springBeans
+-rw-r--r-- 1 tieho.v.raphiri 1049089    31 Sep  7 13:36 .travis.yml
+-rw-r--r-- 1 tieho.v.raphiri 1049089   246 Sep  7 13:36 Dockerfile
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 13:36 devops_docs/
+-rw-r--r-- 1 tieho.v.raphiri 1049089   169 Sep  7 13:36 docker-compose.yml
+-rwxr-xr-x 1 tieho.v.raphiri 1049089  7112 Sep  7 13:36 mvnw*
+-rw-r--r-- 1 tieho.v.raphiri 1049089  5186 Sep  7 13:36 mvnw.cmd
+-rw-r--r-- 1 tieho.v.raphiri 1049089  5743 Sep  7 13:36 readme.md
+-rw-r--r-- 1 tieho.v.raphiri 1049089   332 Sep  7 13:36 sonar-project.properties
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 13:36 src/
+-rw-r--r-- 1 tieho.v.raphiri 1049089 15815 Sep  7 13:36 pom.xml
+-rw-r--r-- 1 tieho.v.raphiri 1049089   568 Sep  7 14:41 .project
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 14:41 target/
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 14:41 .settings/
+-rw-r--r-- 1 tieho.v.raphiri 1049089  1226 Sep  7 14:41 .classpath
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 14:49 ../
+-rw-r--r-- 1 tieho.v.raphiri 1049089    27 Sep  7 15:06 test.Jenkings.trigger
+-rw-r--r-- 1 tieho.v.raphiri 1049089    10 Sep  7 15:10 test2.j
+-rw-r--r-- 1 tieho.v.raphiri 1049089   153 Sep  7 15:14 test.222
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 15:14 .git/
+-rw-r--r-- 1 tieho.v.raphiri 1049089     0 Sep  7 15:24 test.po
+drwxr-xr-x 1 tieho.v.raphiri 1049089     0 Sep  7 15:24 ./
